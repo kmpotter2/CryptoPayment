@@ -147,7 +147,7 @@ st.sidebar.write(account.address)
 # @TODO
 # Call `get_balance` function and pass it your account address
 # Write the returned ether balance to the sidebar
-# YOUR CODE HERE
+cw.get_balance(w3, address="0x3CF20155A524fc854532CA3DC8297A18045B821B")
 
 ##########################################
 
